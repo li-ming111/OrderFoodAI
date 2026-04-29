@@ -1,0 +1,6 @@
+{"id":"5","name":"宫保鸡丁","description":"经典川菜，口感麻辣鲜香","price":"38.00","category":"川菜","image_url":"images/gbjd.png","available":"1"},
+{"id":"6","name":"麻婆豆腐","description":"传统川菜，麻辣鲜香","price":"32.00","category":"川菜","image_url":"images/ljcr.png","available":"1"},
+{"id":"7","name":"糖醋里脊","description":"酸甜可口，外酥里嫩","price":"42.00","category":"粤菜","image_url":"images/mpdf.png","available":"1"},
+{"id":"8","name":"辣椒炒肉","description":"辣辣辣！","price":"68.00","category":"湘菜","image_url":"images/tclj.png","available":"1"},
+{"id":"9","name":"锅包肉","description":"东北菜","price":"48.00","category":"东北","image_url":"images/gbr.png","available":"1"},
+{"id":"10","name":"水煮肉片","description":"本帮菜","price":"55.00","category":"中国","image_url":"images/sgrp.png","available":"1"}
